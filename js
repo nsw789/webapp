@@ -10,7 +10,7 @@ pipeline{
         {
         steps
         {
-        sh 'mkdir rko'
+        sh 'mkdir wnsssssss'
         }
         }
         }
